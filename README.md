@@ -7,3 +7,4 @@ My current learning focus includes:
 - Machine learning fundamentals
 - Data analysis and visualization
 - Git and GitHub version control
+ 
